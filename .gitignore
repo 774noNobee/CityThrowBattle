@@ -58,7 +58,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
-*.unitypackage
+*.unitypackage		
 *.app
 
 # Crashlytics generated file
@@ -70,3 +70,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# 公開用設定
+.vsconfig
+/Assets/BrokenVector*
+/Assets/QuarterView*
+/Assets/Off*
+/Assets/Poly*
+/Assets/Polygonal*
+/Assets/QuickOutline*
+/Assets/SimplePoly*
+/Assets/SimpleSky*
+/Assets/TextMesh*
+/Assets/Gamedata/Audios*
+/Assets/Gamedata/Fonts*
