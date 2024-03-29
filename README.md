@@ -6,7 +6,9 @@
 
 開発環境：Unity(2022.3.10f1)
 
-使用言語：C#開発期間：2023年9月~2024年現在
+使用言語：C#
+
+開発期間：2023年9月~2024年現在
 
 使用したアセット
 ・Quarter View 3D Action Assets Pack https://assetstore.unity.com/packages/3d/characters/quarter-view-3d-action-assets-pack-100
